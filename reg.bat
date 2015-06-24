@@ -1,0 +1,1 @@
+"Pictavore Server\bin\Release\ASCOM.Pictavore_4021a.exe" /register

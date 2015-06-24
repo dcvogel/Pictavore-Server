@@ -1,0 +1,15 @@
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Release\ASCOM.Pictavore_4021a.Focuser.dll.config
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Release\ASCOM.Pictavore_4021a.Focuser.dll
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Release\ASCOM.Pictavore_4021a.Focuser.pdb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Release\ASCOM.Utilities.Video.dll
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Release\ASCOM.Pictavore_4021a.pdb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Release\ASCOM.Pictavore_4021a.exe
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Release\ASCOM.Pictavore_4021a.Focuser.dll.config
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Release\ASCOM.Pictavore_4021a.Focuser.dll
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Release\ASCOM.Pictavore_4021a.Focuser.pdb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Release\focuserDriver.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Release\ASCOM.Pictavore_4021a.Properties.Resources.resources
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Release\ASCOM.Pictavore_4021a.SetupDialogForm.resources
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Release\focuserDriver.csproj.GenerateResource.Cache
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Release\ASCOM.Pictavore_4021a.Focuser.dll
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Release\ASCOM.Pictavore_4021a.Focuser.pdb

@@ -1,0 +1,16 @@
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\bin\Debug\ASCOM.Pictavore_4021a.Camera.dll.config
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\bin\Debug\ASCOM.Pictavore_4021a.Camera.dll
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\bin\Debug\ASCOM.Pictavore_4021a.Camera.pdb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\bin\Debug\ASCOM.Pictavore_4021a.Camera.tlb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\bin\Debug\ASCOM.Pictavore_4021a.exe
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\bin\Debug\ASCOM.Pictavore_4021a.pdb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Debug\ASCOM.Pictavore_4021a.Camera.dll.config
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Debug\ASCOM.Pictavore_4021a.Camera.dll
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Debug\ASCOM.Pictavore_4021a.Camera.pdb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Debug\ASCOM.Pictavore_4021a.Camera.tlb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\obj\Debug\cameraDriver.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\obj\Debug\ASCOM.Pictavore_4021a.Properties.Resources.resources
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\obj\Debug\ASCOM.Pictavore_4021a.SetupDialogForm.resources
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\obj\Debug\cameraDriver.csproj.GenerateResource.Cache
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\obj\Debug\ASCOM.Pictavore_4021a.Camera.dll
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\cameraDriver\obj\Debug\ASCOM.Pictavore_4021a.Camera.pdb

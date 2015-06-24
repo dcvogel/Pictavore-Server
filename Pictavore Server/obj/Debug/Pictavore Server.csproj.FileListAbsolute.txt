@@ -1,0 +1,8 @@
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Debug\ASCOM.Pictavore_4021a.exe.config
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Debug\ASCOM.Pictavore_4021a.exe
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Debug\ASCOM.Pictavore_4021a.pdb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\obj\Debug\Pictavore Server.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\obj\Debug\ASCOM.Pictavore_Server.frmMain.resources
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\obj\Debug\Pictavore Server.csproj.GenerateResource.Cache
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\obj\Debug\ASCOM.Pictavore_4021a.exe
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\obj\Debug\ASCOM.Pictavore_4021a.pdb

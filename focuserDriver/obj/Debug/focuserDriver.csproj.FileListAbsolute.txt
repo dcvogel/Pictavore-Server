@@ -1,0 +1,16 @@
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Debug\ASCOM.Pictavore_4021a.Focuser.dll.config
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Debug\ASCOM.Pictavore_4021a.Focuser.dll
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Debug\ASCOM.Pictavore_4021a.Focuser.pdb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Debug\ASCOM.Pictavore_4021a.Focuser.tlb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Debug\ASCOM.Pictavore_4021a.exe
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\bin\Debug\ASCOM.Pictavore_4021a.pdb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Debug\ASCOM.Pictavore_4021a.Focuser.dll.config
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Debug\ASCOM.Pictavore_4021a.Focuser.dll
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Debug\ASCOM.Pictavore_4021a.Focuser.pdb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\Pictavore Server\bin\Debug\ASCOM.Pictavore_4021a.Focuser.tlb
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Debug\focuserDriver.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Debug\ASCOM.Pictavore_4021a.Properties.Resources.resources
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Debug\ASCOM.Pictavore_4021a.SetupDialogForm.resources
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Debug\focuserDriver.csproj.GenerateResource.Cache
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Debug\ASCOM.Pictavore_4021a.Focuser.dll
+C:\Users\Dave\Documents\Visual Studio 2012\Projects\Pictavore Server\focuserDriver\obj\Debug\ASCOM.Pictavore_4021a.Focuser.pdb
